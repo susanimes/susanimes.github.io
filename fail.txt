@@ -557,3 +557,15 @@ python3 anime-link-scaper.py https://www1.gogoanime.ai/category/bishoujo-senshi-
 python3 anime-link-scaper.py https://www1.gogoanime.ai/category/bishoujo-senshi-sailor-moon-sailor-stars
 python3 anime-link-scaper.py https://www1.gogoanime.ai/category/bishoujo-yuugekitai-battle-skipper
 python3 anime-link-scaper.py https://www1.gogoanime.ai/category/bishoujo-yuugi-unit-crane-game-girls
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/bishoujo-yuugi-unit-crane-game-girls-galaxy
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/bishounen-tanteidan
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/bishounen-tanteidan-dub
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/black-blood-brothers
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/black-blood-brothers-dub
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/black-bullet
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/black-bullet-dub
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/black-cat
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/black-cat-dub
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/black-clover
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/black-clover-tv
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/black-clover-tv-dub
