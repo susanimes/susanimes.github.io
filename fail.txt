@@ -232,3 +232,14 @@ python3 anime-link-scaper.py https://www1.gogoanime.ai/category/asobi-asobase-sp
 python3 anime-link-scaper.py https://www1.gogoanime.ai/category/asobi-ni-iku-yo
 python3 anime-link-scaper.py https://www1.gogoanime.ai/category/asobi-ni-iku-yo-dub
 python3 anime-link-scaper.py https://www1.gogoanime.ai/category/asobi-ni-iku-yo-ova
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/asobi-ni-iku-yo-asobi-ni-oide-dub
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/assassins-pride
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/assassins-pride-dub
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/assault-lily-bouquet
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/assault-lily-bouquet-dub
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/assemble-insert
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/assemble-insert-dub
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/astarottes-toy-ep-ex
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/astarottes-toy
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/astro-boy-1963-dub
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/astro-boy-1980-dub
