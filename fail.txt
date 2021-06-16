@@ -243,3 +243,12 @@ python3 anime-link-scaper.py https://www1.gogoanime.ai/category/astarottes-toy-e
 python3 anime-link-scaper.py https://www1.gogoanime.ai/category/astarottes-toy
 python3 anime-link-scaper.py https://www1.gogoanime.ai/category/astro-boy-1963-dub
 python3 anime-link-scaper.py https://www1.gogoanime.ai/category/astro-boy-1980-dub
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/astro-boy-2003-dub
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/astro-boy-tetsuwan-atom
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/astroganger
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/asu-no-yoichi-
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/asura
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/asura-cryin
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/asura-cryin-2
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/atom-the-beginning
+python3 anime-link-scaper.py https://www1.gogoanime.ai/category/attack-no-1
